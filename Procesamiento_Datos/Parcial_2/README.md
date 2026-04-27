@@ -1,4 +1,4 @@
-# Predicción de Calidad del Agua en la India
+# Segundo Parcial
 **Pontificia Universidad Javeriana - Procesamiento Datos**
 
 ## Descripción
